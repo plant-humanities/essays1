@@ -4,7 +4,7 @@ description: Cryptomeria japonica, or sugi, is Japan’s national tree and has l
 author: Kira Bre Clingen and Edyth Jostol
 date: 2025-01-01
 layout: post
-thumbnail: Cryptomeria.jpeg
+thumbnail: Cryptomeria.jpg
 permalink: /cryptomeria
 tags: tree conifer ornamental temperate
 published: true
