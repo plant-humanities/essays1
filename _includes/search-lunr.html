@@ -411,12 +411,13 @@
                         console.warn(`[Search] Document not found in store for ref: ${hit.ref}`);
                         return;
                     }
+                    console.log('{{ site.baseurl }}', doc.url)
                     const sourceTextForSnippet = doc.content || doc.excerpt || '';
                     const snippet = makeSnippetMulti(sourceTextForSnippet, query);
                     const listItem = document.createElement('li');
-                    listItem.setAttribute('data-url', "{{ site.baseurl | relative_url }}" + doc.url); 
+                    listItem.setAttribute('data-url', "{{ site.baseurl }}" + doc.url); 
                     const link = document.createElement('a');
-                    link.href = "{{ site.baseurl | relative_url }}" + doc.url; 
+                    link.href = "{{ site.baseurl }}" + doc.url; 
                     link.textContent = doc.title || 'Untitled';
                     const snippetPara = document.createElement('p');
                     snippetPara.classList.add('snippet');
