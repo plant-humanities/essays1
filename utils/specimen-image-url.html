@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <a id="specimenUrl"></a>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jsonld/8.3.3/jsonld.min.js" integrity="sha512-qXq10yTPXuAafT+EQsX+5QUyVMR97DVc/YSvCuFTp9MeD8S7UozSMP/1m//R1AHTJFE8svXc0Cnz/9PmnseD4w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script type="module">
+
+    const sparqlEndpoint = 'https://cy9in0xsv5.execute-api.us-east-1.amazonaws.com/prod/sparql'
+
+    const sparql = `
+      PREFIX jwd: <http://kg.jstor.org/entity/>
+      PREFIX jwdt: <http://kg.jstor.org/prop/direct/>
+      PREFIX jp: <http://kg.jstor.org/prop/>
+      PREFIX jps: <http://kg.jstor.org/prop/statement/>
+      PREFIX jpq: <http://kg.jstor.org/prop/qualifier/>
+      PREFIX wd: <http://www.wikidata.org/entity/>
+      PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+      PREFIX schema: <http://schema.org/>
+      CONSTRUCT {
+        ?specimen jwdt:P1660 ?specimenOf ;
+                  schema:description ?description ;
+                  rdf:type jwd:Q14316 ;
+                  jwdt:P1663 ?collectionDate ;
+                  jwdt:P1662 ?collector ;
+                  jwdt:P1665 ?locationCollected ;
+                  jwdt:P1106 ?jstorPlantsId ;
+                  jwdt:P1661 ?specimenType ;
+                  jwdt:P501 ?taxonName ;
+                  jwdt:P1666 ?availableAt ;
+                  jp:P1467 ?img .
+        ?img jps:P1467 ?url ; jpq:P1669 ?imgSize .
+        ?availableAt jps:P1666 ?wdID ; rdfs:label ?herbariumName .
+        ?locationCollected jps:P1665 ?locId ; rdfs:label ?locationName ; wdt:P6766 ?wofId .
+      } WHERE {
+        ?specimen jwdt:P17 jwd:Q14316 ;
+                <<SELECTOR>>
+                schema:description ?description ;
+                jwdt:P1106 ?jstorPlantsId ;
+                jwdt:P501 ?taxonName ;
+                jp:P1467 [ jps:P1467 ?img ;
+                          jpq:P1669 ?imgSize ] .
+        FILTER(?imgSize = 'best')
+        OPTIONAL { ?specimen jwdt:P1661 ?specimenType . }
+        OPTIONAL { ?specimen jwdt:P1660 ?specimenOf . }
+        OPTIONAL { ?specimen jwdt:P1663 ?collectionDate . }
+        OPTIONAL { ?specimen jwdt:P1662 ?collector . }
+        OPTIONAL {
+            ?specimen jwdt:P1665 ?locationCollected .
+            SERVICE <https://query.wikidata.org/sparql> {
+                ?locationCollected rdfs:label ?locationName .
+                FILTER(LANG(?locationName) = 'en')
+                OPTIONAL { ?locationCollected wdt:P6766 ?wofId . }
+            }
+        }        
+        OPTIONAL {
+            ?specimen jwdt:P1666 ?availableAt .
+            SERVICE <https://query.wikidata.org/sparql> {
+                ?availableAt rdfs:label ?herbariumName .
+                FILTER(LANG(?herbariumName) = 'en')
+            }
+        }
+      }
+      LIMIT <<LIMIT>>`
+
+    const context = {
+      '@context': {
+        'jwd': 'http://kg.jstor.org/entity/',
+        'jwdt': 'http://kg.jstor.org/prop/direct/',
+        'jp': 'http://kg.jstor.org/prop/',
+        'jps': 'http://kg.jstor.org/prop/statement/',
+        'jpq': 'http://kg.jstor.org/prop/qualifier/',
+        'rdfs':  'http://www.w3.org/2000/01/rdf-schema#',
+        'schema': 'http://schema.org/',
+        'wd': 'http://www.wikidata.org/entity/',
+        'wdt': 'http://www.wikidata.org/prop/direct/',
+        'xsd': 'http://www.w3.org/2001/XMLSchema#',
+        'Specimen': 'jwd:Q14316',
+        'id': '@id',
+        'collectionDate': {
+            '@id': 'jwdt:P1663',
+            '@type': 'xsd:dateTime'
+        },
+        'collector': {
+            '@id': 'jwdt:P1662',
+            '@container': '@set'
+        },
+        'description': {
+            '@id': 'schema:description',
+            '@language': 'en'
+        },
+        'herbarium': {
+            '@id': 'jwdt:P1666',
+            '@type': '@id'
+        },
+        'images': {
+            '@id': 'jp:P1467',
+            '@type': '@id',
+            '@container': '@set'
+        },
+        'imgSize': {
+            '@id': 'jpq:P1669'
+        },
+        'instance of': {
+            '@id': 'jwdt:P17',
+            '@type': '@id'
+        },
+        'jstorPlantsId': {
+            '@id': 'jwdt:P1106'
+        },
+        'locationCollected': {
+            '@id': 'jwdt:P1665'
+        },
+        'label': {
+            '@id': 'rdfs:label',
+            '@language': 'en'
+        },
+        'specimenOf': {
+            '@id': 'jwdt:P1660',
+            '@type': '@id'
+        },
+        'specimenType': {
+            '@id': 'jwdt:P1661'
+        },
+        'taxonName': {
+            '@id': 'jwdt:P501'
+        },
+        'wofId': {
+            '@id': 'wdt:P6766'
+        }
+      }
+    }
+
+    const doSparqlQuery = async (query) => {
+      let resp = await fetch(sparqlEndpoint, {
+        method: 'POST', body: new URLSearchParams({query}),
+        headers: { Accept: 'text/plain', 'Content-type': 'application/x-www-form-urlencoded' }
+      })
+      let rdf = await resp.text()
+      // @ts-ignore
+      let jld = await jsonld.fromRDF(rdf, { format: 'application/n-quads' })
+      // @ts-ignore
+      return jsonld.frame(jld, {'@context': context, '@type': 'Specimen'})
+    }
+
+    const findSpecimens = async () => {
+      let specimens = []
+      let qid = new URLSearchParams(window.location.search).get('qid');
+      let jpid = new URLSearchParams(window.location.search).get('jpid');
+      let taxonName = new URLSearchParams(window.location.search).get('taxonName');
+      let selector = jpid
+        ? `jwdt:P1106 "${jpid}" ;`
+        :  qid
+          ? `jwdt:P1660 <http://www.wikidata.org/entity/${qid}> ;`
+          : `jwdt:P501 "${taxonName}" ;`
+      let query = sparql.replace(/<<SELECTOR>>/, selector).replace(/<<LIMIT>>/, `1`)
+      // console.log(query)
+      let resp = await doSparqlQuery(query)
+      if (!resp['@graph']) {
+        delete resp['@context']
+        specimens = [resp]
+      } else {
+        specimens = resp['@graph']
+      }
+      return specimens
+    }
+
+    findSpecimens().then(specimens => {
+      console.log(specimens)
+      let url = specimens[0]?.images[0].id
+      let jpid = specimens[0]?.jstorPlantsId
+      document.querySelector('#specimenUrl').href = url
+      document.querySelector('#specimenUrl').innerHTML = jpid
+    })
+
+  </script>
+</body>
+</html>
