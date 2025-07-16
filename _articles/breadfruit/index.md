@@ -15,14 +15,14 @@ published: true
 #
 
 ##
-{: .columns}
+{: .wrap}
 
 The breadfruit tree is magnificent when mature, tall and broad branched, with large glossy leaves.  It provides shade and through its impressive spherical fruit, nutritious food.[^1]
 
 `image src=breadfruitMongabay.jpg caption="A breadfruit tree in Southeast Asia" attribution=Pixabay license="public domain" aspect=1.50`
 
 ##
-{: .columns}
+{: .wrap}
 
 Like many plants, it has been moved great distances, far beyond its own propagation range  through human agency determined to benefit from it. It began in the Pacific, and as Zerega et al. point out, it has been cultivated there for thousands of years.[^2] The Pacific is an enormous oceanic space (30 percent of the earth, 155 million sq. kilometers or 60 million sq. miles, and bigger than all the continents combined). Since the breadfruit became a staple food for islanders, it was taken by them when they travelled to establish new settlements.
 
@@ -79,7 +79,7 @@ The representation of Pacific island societies as places of idyllic idleness and
 `image src=wc:William_Bligh,_1791.jpg caption="Portrait of Rear Admiral Captain William Bligh, 1791." aspect=0.71 .left .small`
 
 ##
-{: .columns}
+{: .wrap}
 
 In fascinating research, Audi et al. have shown that two Caribbean cultivars can be directly connected to their Pacific ancestry through genetic data, after over two hundred years. They point out that “Outside of Oceania, the Caribbean is one of the largest growers of breadfruit."[^10] Furthermore, Caribbean seedless cultivars are fairly uniform, lacking genetic diversity, because seedless varieties originate from a single introduction from Tahiti to St. Vincent and the Grenadines. Tahitian cultivar names, however, have been lost (288). Despite their significance in Caribbean diet and culture today, Laura B. Roberts-Nkrumah, a leading expert on breadfruit in the Caribbean, argues that breadfruit is still underutilized, "two and a quarter centuries after its introduction."[^11]
 
@@ -89,7 +89,7 @@ In fascinating research, Audi et al. have shown that two Caribbean cultivars can
 # Understanding Breadfruit through Illustration
 
 ##
-{: .columns}
+{: .wrap}
 
 The breadfruit’s journeys across time and space can be traced through a number of careful botanical illustrations of the plant, often attaining the level of art and produced over a long period of time. There are striking images from many places, including Fiji and Puerto Rico, also one generically ascribed to Asia. These often show the male spike and the female flower as well as leaves. In 1796,  three years after Bligh got the plant to the Caribbean, J. Pass did a colored etching that interprets the breadfruit a little oddly, despite getting it mostly right (the fruit is not golden like a mango when ripe).
 
@@ -103,49 +103,49 @@ All plants moved around the expanding British empire were collected at Kew Garde
 `youtube vid=wbBJJCNL5O0 aspect=1.6`
 
 ##
-{: .columns}
+{: .wrap}
 
 The unusual nature of his painting may be understood by comparison with an 1800 drawing from India of the breadfruit done in “Company Style," presumably the ruthless East India Company, where rules prevailed.[^13]
 
 `image src=yale.jpg caption="Illustrations like this one for the East India Company served artistic, economic, political, and scientific roles. Artist unknown." attribution="Yale Center for British Art, Paul Mellon Fund" license="public domain" aspect=1.29`
 
 ##
-{: .columns}
+{: .wrap}
 
 Culturally specific landscape painting, without people usually, can also creep into illustrative composition as in British William Daniell’s 1809 colored aquatint—and actually the tree looks nothing like the breadfruit and might be the jackfruit ([_Artocarpus heterophyllus_](Q45757)).
 
 `image src=V0043227.jpg source=https://iiif.wellcomecollection.org/image/V0043227/full/full/0/default.jpg caption="Breadfruit Landscape. Coloured aquatint by W. Daniell, c. 1809, after himself." attribution="Wellcome Collection" license="public domain" aspect=1.4`
 
 ##
-{: .columns}
+{: .wrap}
 
 An anonymous illustration, again British, dated c. 1827, groups the breadfruit, again with yellow fruit, with [mandrake](Q2651366) (_Mandragora officinarum_) and cudweed (_Gnaphalium species_), the name on the drawing—perhaps to suggest the breadfruit belongs in Britain/Europe. Mandrake, a Mediterranean member of the nightshade family has a root that suggests the shape of humans and so was given magical qualities. Cudweed is described variously as a member of the daisy and sunflower family (which are the same family generally but of different genus). The British variant is believed to have been brought from mainland Europe in ancient times and almost became extinct. It is interesting (and quite colonial) that the breadfruit, in inaccurate representation, is thus claimed by British horticultural history at a time of colonial expansion. 
 
 `image src=cudweedAndBreadfruit.jpg caption="Nineteenth century depiction of breadfruit alongside cudweed and mandrake (c. 1827)." attribution="Wellcome Collection" license="public domain" aspect=0.77`
 
 ##
-{: .columns}
+{: .wrap}
 
 Another British botanical illustration of 1828 is more accurate and detailed, published in [_Curtis’s Botanical Magazine_](Q2269599). This one is a hand-colored engraving and the green used is  reasonably faithful to the breadfruit’s color, which suggests a desire to be fair to the plant as opposed to framing it for people in the cultural locale which wanted the image made.
 
 `image src=mobot31753002721287_0246.jpg aspect=0.7`
 
 ##
-{: .columns}
+{: .wrap}
 
 Images from Asia over time show a similar range from the strictly botanical interpreted by a gifted artist to the plant or fruit in social context. One from an “album” of watercolors of Asian fruits and flowers (dated 1798-1850) is very accurately observed and colored. 
 
 `image src=breadfruitDO.jpg caption="Breadfruit in a collection of watercolors of Asian fruits and flowers (between 1798 and 1850?)" attribution="Dumbarton Oaks" aspect=1.19`
 
 ##
-{: .columns}
+{: .wrap}
 
 Early photography (1890-1910) delivers an image of a Fijian man carrying breadfruit tied to a stick over his shoulder: in this the fruit is part of a portrait of a person. The man is turned to the camera and looks levelly into it, conveying a strength and reserve that refuses the colonizing gaze—Fiji became a British Crown Colony in 1874. 
 
 `image src=fijianMan.jpg caption="Fijian Man carrying breadfruit (c. 1890-1910)" attribution="Museum of New Zealand Te Papa Tongarewa" license="public domain" aspect=0.77`
 
 ##
-{: .columns}
+{: .wrap}
 
 Cook and Banks were both impressed by the importance of breadfruit in Pacific culture. A striking example of this is Cook’s careful observation of the disposition of a dead person’s body (who had been shot by Cook’s people). Items to nurture the spirit in the afterlife were placed close to the body, including “a few pieces of Bread fruit roasted ready for eating.”[^14] In 1920, [Wilson Popenoe’s](Q5869109) description shows the breadfruit as an interesting and important plant. Perhaps the two most important parts of his account for us here are his attention to the breadnut and his remark that in 1920 as he wrote this, there was very little scientific study of the breadfruit.[^15]
 
@@ -155,7 +155,7 @@ Cook and Banks were both impressed by the importance of breadfruit in Pacific cu
 # The Cultural Significance of Breadfruit across the Caribbean
 
 ##
-{: .columns}
+{: .wrap}
 
 It should be clear by now that the breadfruit’s beginnings as a support to Pacific islanders was interrupted by the arrival of European colonists who usurped it for their own purposes and brought it to the Caribbean. There it had  a difficult beginning as a tree foisted upon an enslaved population, one of whose very few rights and freedoms was their growing of food for themselves, (ground provisions) in small plots. These included yams, eddoes and other vegetables that carried an ancestral connection to Africa. The breadfruit was not only established without their interest or consent but when introduced to the Caribbean had no ancestral connection with the origin cultures of enslaved people.[^16]
 
@@ -186,14 +186,14 @@ Jill Casid’s book, _Sowing Empire: Landscape and Colonization_ includes an acc
 # The Breadfruit in Caribbean Literature
 
 ##
-{: .columns}
+{: .wrap}
 
 Caribbean literature from the twentieth century provides us with a sense of how the breadfruit has entered cultural and individual imagination in the region. [Derek Walcott](Q132701), Nobel laureate, born in St. Lucia in the Eastern Caribbean in 1930, makes the breadfruit a key  element in “The Bounty," his moving poetic elegy for his mother, Alix.
 
 `image src=wc:Derek_Walcott.jpg caption="Photograph of Derek Walcott" aspect=0.67 .small`
 
 ##
-{: .columns}
+{: .wrap}
 
 The poem  plays with the idea of bounty as the plenty of natural harvest and as Bligh’s ship’s name. The breadfruit appears early: “the breadfruit opens its palms in praise of the bounty, /bois-pain, tree of bread, slave food...."[^20] Bois-pain is literally bread fruit: [St Lucia](Q760) had both French and English colonizers; everyone understands and speaks English, but the creole is French-based. This image of the breadfruit as having palms, hands with fingers, reflects the shape of the leaf. This comes back in section iii of the poem, “the breadfruit’s palms.”[^21]
 
@@ -233,14 +233,14 @@ There are many references to breadfruit in Caribbean literature, scribal and ora
 `map center=19.546425,-76.318746 zoom=5`
 
 ##
-{: .columns}
+{: .wrap}
 
 Kincaid goes on to say, after praising its fecundity and durability as a plant, “In a place like Antigua the breadfruit is not a plant, it is a weapon.”[^30] Earlier she says  of the breadfruit that it “has been the cause of more disagreement between parents and children that anything I can think of. No West Indian that I know has ever liked it.”[^31]
 
 `image src=wc:Jamaica_Kincaid.jpg caption="Jamaica Kincaid speaking at the Göteborg Book Fair in September 2019." aspect=1.22`
 
 ##
-{: .columns}
+{: .wrap}
 
 Clearly the breadfruit, through no fault of its own, could have been simply a metonym for suffering and thus only resented by descendants of the enslaved.
 

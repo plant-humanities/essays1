@@ -16,7 +16,7 @@ published: true
 # Going Bananas
 
 ##
-{: .columns}
+{: .wrap}
 
 Everybody knows what a [banana](Q503) is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite this commonality across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, "bananas." The identity of the wild ancestor, or ancestors, of our most common modern-day edible banana, the Cavendish, remains something of a mystery and scientists are still attempting to document the approximately 500 banana cultivars that have been grown for centuries.
 
@@ -40,7 +40,7 @@ Bananas belong to the genus _Musa_, which is divided into four sections, the mem
 `image src=wc:Greater_Indian_fruit_bat_@_Kanjirappally_02.jpg aspect=1.39`
 
 ##
-{: .columns}
+{: .wrap}
 
 Prior to domestication, wild banana fruits were (and remain) incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to [parthenocarpy](Q1383946), or the ability to produce fruit without fertilization. Beginning some 7,000 years ago, humans noticed that some banana plants produce seedless fruits. Since sterile wild bananas were easier to eat, humans began propagating the wild banana plants with this mutation. To propagate a sterile plant, humans cloned the banana by collecting and planting the ramets—vegetative suckers—of the original plant.
 
@@ -65,7 +65,7 @@ While wild bananas are more diverse than previously understood, scientists have 
 # What’s in a Name?
 
 ##
-{: .columns}
+{: .wrap}
 
 In 1753, [Carl Linnaeus](Q1043)’ [formative work](Q29270), [_Systema Naturae,_](https://www.biodiversitylibrary.org/page/728487) formalized a system of nomenclature that standardized plant names and botanical terminology among botanists across the globe. The system used [Latin binomial names](Q54878466)—the first name indicating the genus, and the second the species—to identify all living organism in the natural world. In addition to binomial names, Linnaeus also proposed a new system of classifying plants. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was a somewhat artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names and groupings created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system of classification has been revised, modified, and added to over the centuries, the system of binomial names has remained largely unchallenged for nearly 250 years.
 
@@ -74,7 +74,7 @@ In 1753, [Carl Linnaeus](Q1043)’ [formative work](Q29270), [_Systema Naturae,_
  -->
 
 ##
-{: .columns}
+{: .wrap}
 
 Yet, despite [Linnaean taxonomy’s](Q54878466) international acceptance and longevity, Linnaeus’s naming system does have its limitations, which we can see in the case of the banana. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two "wild" species of banana identified by Linnaeus–_[Musa x paradisiaca](Q10757112)_ and _[Musa sapientum](Q49625849)_-were in fact domesticated edible cultivars. Linnaeus was unaware of the banana’s long and complex history of domestication.
 
@@ -84,7 +84,7 @@ Yet, despite [Linnaean taxonomy’s](Q54878466) international acceptance and lon
 # The Banana Goes Global
 
 ##
-{: .columns}
+{: .wrap}
 
 Thanks to domesticated bananas’ long history of human intervention and migration, modern plant taxonomy did little to clear up the confusion surrounding identifications and names of banana plants. While scientists eventually deduced that Linnaeus had identified two domesticated banana cultivars, not species, the wild progenitors of cultivated bananas as well as the origin of banana domestication remained a mystery until recently. Twenty-first century genomics and genetic testing have revealed that the origin of banana domestication was geographically further east than originally thought.
 
@@ -116,7 +116,7 @@ In 1516, [Friar Tomas de Berlanga](Q115599), then a Catholic missionary, landed 
 # Many Names, One Plant
 
 ##
-{: .columns}
+{: .wrap}
 
 During this early period of renewed European interest in the banana, there was great uncertainty surrounding the identification, depiction, and name of the abundant yellow fruits Europeans encountered throughout Africa, India, Southeast Asia, and, thanks to their own transmission, the [New World](Q127834). While living in [Goa](Q1171), India, a Portuguese physician and naturalist, [Garcia de Orta](Q1493994), adopted the name "banana" for the fruit. In 1563, de Orta published an [herbal](Q6165948) detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well as ["in Guinea, where they call them bananas."](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana) In the early modern period, however, the use of the name banana was far from universal.
 
@@ -148,7 +148,7 @@ While the adoption of the Arabic word for banana provided some standardization o
 `- geojson active url=banana_names.json`
 
 ##
-{: .columns}
+{: .wrap}
 
 By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a [dietary staple](Q736427) along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed.
 
@@ -156,7 +156,7 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 `- geojson layer="Banana Distribution in Central and South America" url=banana_distribution_LA.json`
 
 ##
-{: .columns}
+{: .wrap}
 
 Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, [George Clifford](Q556591) (1685–1760), to see and study a live banana plant. At his estate in [Hartekamp](Q18771183), Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminata_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, [_Musa Cliffortiana_,](http://linnean-online.org/120150/) published in 1736. The German botanical artist Georg Ehret provided the illustrations of Clifford’s flowering banana plant for the treatise and diagrammed Linnaeus’s new plant classification system. It was also at the direction of Linnaeus that Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 
@@ -179,7 +179,7 @@ In the early twentieth century, multinational American corporations like the UFC
 `image src=United_Fruit_Company_banana_conveyors.jpg aspect=1.26`
 
 ##
-{: .columns}
+{: .wrap}
 
 An intense [monoculture](Q220212) focused on the [vegetal propagation](Q464666) of one mutation of one banana hybrid proved unsustainable. Lacking genetic diversity, [Gros Michel banana](Q1547451) plantations across the globe fell victim to a pathogen known as Fusarium oxysporum, or "[Panama Disease](Q3240031)." From 1899 to the 1950s, Panama Disease destroyed Gros Michel crops throughout the Americas. Desperate to replace the valuable export, fruit conglomerates abandoned the Gros Michel for a new varietal, the smaller and less flavorful [Cavendish banana](Q1051869).
 
@@ -190,7 +190,7 @@ An intense [monoculture](Q220212) focused on the [vegetal propagation](Q464666) 
 # Bananas Today
 
 ##
-{: .columns}
+{: .wrap}
 
 Today the Cavendish banana remains the dominant cultivated and exported varietal of bananas. Just as it did in the twentieth century, the current global production of more than one million tons of bananas is based on large-scale vegetative propagation of a small number of genotypes derived from a handful of ancient sexual recombination events. This makes the Cavendish varietal, like the Gros Michel, particularly susceptible to diseases, as well as pests and climate change. Recent scientific studies on banana genetics and genomes, however, could hold the key to diversifying and revitalizing banana hybrids. For many scientists, the goal is to figure out banana’s origin story in order to produce new polyploid hybrids through genetic recombination, genetic engineering, and manipulation of fertile diploids, just as societies in Southeast Asia did thousands of years ago.[^ref7]
 

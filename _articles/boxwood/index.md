@@ -15,7 +15,7 @@ published: true
 # Boxwood under Threat
 
 ##
-{: .columns}
+{: .wrap}
 
 "Boxwood blight invades North America," reads the headline of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a [fungus](Q764) whose [spores](Q177332) remain viable for several years and are easily dispersed by birds, moving visitors, wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, [boxwood blight](Q4952010) has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as "a significant concern for the ornamental horticulture industry" as well as "a growing threat to established landscapes and native ecosystems alike."[^ref1]
 
@@ -30,7 +30,7 @@ published: true
 `image src=box-walk.jpg region=154,53,900,667 aspect=1.50`
 
 ##
-{: .columns}
+{: .wrap}
 
 One of the finest among these, [Dumbarton Oaks](Q1264942)—designed by [Beatrix Farrand](Q437714) beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as "the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England."[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 
@@ -64,14 +64,14 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 `image src=wc:Oldway_Mansion_03.jpg aspect=1.63`
 
 ##
-{: .columns}
+{: .wrap}
 
 The real issue with boxwood was what sixteenth-century English physician [John Gerard](Q1333338) described as the "evil and loathsome smell," which, according to Soderini, was not only "annoying," but could give one headaches as it "infested the air."[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was "valued little or not at all."[^ref14]
 
 `image src=herballorgeneral00gera_2_1251.jpg aspect=0.6`
 
 ##
-{: .columns}
+{: .wrap}
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by [Amato Lusitano](Q455777), a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure [syphilis](Q41083), the general consensus—endorsed by the leading writer on _materia medica_, [Pietro Andrea Mattioli](Q457191)—was that it "had no use in medicine." Lusitano’s claim was dismissed as "vain and foolish," which "could in no way be acceptable to doctors."[^ref15] Such pronouncements against boxwood, which was considered of "no physical use among the most and best physicians," were sustained by the Englishman [John Parkinson](Q37393560) (who, however, noted that its leaves could be given to horses as a cure for [botfly](Q27485) larvae); Gerard raged against "foolish empirics and women leeches" who "minister it against [apoplexy](Q8264724) and such diseases."[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 

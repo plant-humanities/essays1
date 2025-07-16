@@ -1,5 +1,5 @@
 ---
-title: 'Cinnamomum verum: Discovering "True" Cinnamon
+title: 'Cinnamomum verum: Discovering "True" Cinnamon'
 description: Once just a kitchen spice—and briefly an internet stunt—cinnamon has a much deeper story rooted in centuries of global trade and discovery. This narrative traces the quest to identify and control “true” cinnamon, revealing its lasting impact on medicine, commerce, and history.
 author: Wouter Klein
 date: 2025-01-01

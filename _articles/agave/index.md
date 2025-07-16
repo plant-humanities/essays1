@@ -16,18 +16,18 @@ published: true
 # The Big Bloom 
 
 ##
-{: .columns}
+{: .wrap}
 
 1698 was a special year for the [Hortus botanicus Leiden](#Q2468128), the oldest botanical garden in the Netherlands. After 96 years, its exotic "Aloe Americana" (or *[Agave americana](Q155874)*, as it is classified today), bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned an illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to the Dumbarton Oaks Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called "century plant" and provides a lens to explore the history of agave—a plant that has shaped human societies across three continents.
 
-`image src=Aloe_Americana_Leiden_DO.jpg aspect=0.75 .medium`
+`image src=Aloe_Americana_Leiden_DO.jpg aspect=0.75`
 
 ##
 {: .wrap}
 
 The Hortus’s *Agave americana* certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an *Agave americana* typically blooms every 10 to 25 years and can grow upwards of 20 feet.[^ref2] *Agave* is a genus of [monocots](Q78961), with some 200 species indigenous to Central America, the southwestern United States, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
 
-`map center=25.503945,-102.834000 zoom=4 caption="Agave americana distribution" basemaps=Esri_WorldPhysical .medium`
+`map center=25.503945,-102.834000 zoom=4 caption="Agave americana distribution" basemaps=Esri_WorldPhysical`
 `- geojson url=agave_distribution.json`
 `- marker qid=Q13160`
 `- marker qid=Q170603`
@@ -40,7 +40,7 @@ The Hortus’s *Agave americana* certainly earned its nickname, taking almost a 
 
 For centuries, agave species provided spiritual and physical sustenance to the inhabitants of the semiarid lands of North and Central America. Given its numerous cultural uses, it is not surprising that the [Nahuatl](Q13300) term for agaves, "metl," implied that they were a miracle plant.[^ref3] In his chronicle of the indigenous peoples of [New Spain](Q170603), the Franciscan missionary, [Toribio de Benavente Motolinía](Q532539), described the many uses of agave, or "maguey" as it was locally known. He observed that the fibers from the leaves were used for sewing as well as for making cords, robes, cables, clothing, and footwear. The plant’s sharp spines were used as punches, nails, and tacks. When dried, the leaves were used for general building materials, fires, and paper. Agaves are also edible. Motolinía remarked that both the fibrous leaves and sap of the plant were palatable and nutritious. He also noted that honey, vinegar, sugar, and medicinal balsams were made from the abundant sap. Finally, and perhaps most significantly, the fermented sap of the agave, called [pulque](Q511700), was a beverage that, according to Motolinía, was "wholesome and very nutritious" when consumed in moderation.[^ref4]
 
-`image src=https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0656/full/pct:25/0/default.jpg region=422,1352,592,542 caption="Treating a head wound. Bernardino De Sahagún, Book XI, Historia general de las cosas de Nueva España (Florentine Codex), 1577. Biblioteca Medicea Laurenziana via World Digital Library, public domain." aspect=0.76 .medium`
+`image src=https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0656/full/pct:25/0/default.jpg region=422,1352,592,542 caption="Treating a head wound. Bernardino De Sahagún, Book XI, Historia general de las cosas de Nueva España (Florentine Codex), 1577. Biblioteca Medicea Laurenziana via World Digital Library, public domain." aspect=0.76`
 
 
 # The Sacred Drink of the Maya and Nahua Peoples
@@ -53,7 +53,7 @@ Long before the arrival of Europeans like Motolinía, pulque of various agave sp
 `image src=wc:Codex_Magliabechiano_%28folio_85r%29.jpg region=204,22,765,589 aspect=1.39`
 
 ##
-{: .columns}
+{: .wrap}
 
 The association of heart sacrifice with pulque extended beyond metaphor. Just as the heart of man had to be sacrificed to sustain the gods, the heart of the agave had to be sacrificed to produce pulque and sustain man, resulting in the plant’s death. As the plant neared maturity, its "cajete," center—or heart, swelled and elongated as the plant gathered stored sap. To access the sap, makers would excise the stalk, creating a cavity within the plant’s center where the sap, known as "aguamiel" (honey water), accumulated. For three to six months, the makers harvested the sap daily, scraping the sides of the cavity to facilitate the flow of the sap, until the plant died. Once collected, naturally occurring microorganisms continued the fermentation process resulting in the pulque.[^ref7]
 
@@ -63,7 +63,7 @@ The association of heart sacrifice with pulque extended beyond metaphor. Just as
 # The American Aloe
 
 ##
-{: .columns}
+{: .wrap}
 
 It is unclear exactly when or how the first agave specimen arrived in Europe. It was likely brought to Spain with numerous other New World plants for cultivation. In 1576, [Carolus Clusius](Q333372) published the first description of the ["Aloe Americana,"](https://www.biodiversitylibrary.org/page/6781301) effectively distinguishing agave from other known aloe plants in Asia, Africa, and the Middle East.[^ref8] Clusius, a French naturalist and collector at the forefront of an emerging botanical revolution in Europe, claimed that he learned of the plant from Gomara’s *Storia del Messico* (first published in 1552) and encountered a living specimen in a garden in Valencia while traveling through Spain in 1564–1565.
 
@@ -96,7 +96,7 @@ While the agave in Europe was an ornamental plant that symbolized botanical know
 # Tequila and National Identity
 
 ##
-{: .columns}
+{: .wrap}
 
 Today, [tequila](https://daily.jstor.org/plant-of-the-month-agave/) is the national drink of Mexico. Since its creation, and perhaps because of its cultural hybridity, tequila has become a driving force of Mexican identity. Following the Mexican Revolution, national ideology embraced cantina (drinking) culture and the hyper-masculine "machismo" ethos tequila came to represent. Once industrial distillation was introduced to Jalisco, agave roasters (*mescalaros*) were suddenly promoted from menial laborers to alchemists. Jalisco’s tequila cottage industry elevated entire segments of mestizo populations. By 1970, tequila was an international commodity and its export has more than doubled since, with almost two-thirds of tequila exported from Mexico being consumed by Canada and the United States.[^ref13]
 

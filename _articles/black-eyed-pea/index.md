@@ -16,7 +16,7 @@ published: true
 # A Food Source and So Much More
 
 ## 
-{: .columns}
+{: .wrap}
 
 While the [black-eyed pea](Q498940), or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
 
@@ -47,7 +47,7 @@ Authors of the ancient world have described black-eyed peas in accounts of plant
 `iframe src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html source=1-bgb9ieXKIJb0mj1LuB2lfcJXRcH4IJdq6l6NrFpUWw height=650`
 
 ##
-{: .columns }
+{: .wrap }
 
 Records of black-eyed pea consumption and use within Europe during the [Middle Ages](Q12554) are relatively scarce. Understood as a food for peasants and livestock, black-eyed peas would have been considered subject matter too lowly for inclusion in the annals of history. Throughout the [early modern period](Q5308718), the dried bean continued to be associated with persons of low social standing. But by the late sixteenth century, the bean seemed at least worthy of representation. In the Italian artist [Annibale Carracci’s](Q7824) (1560–1609) painting _The Bean Eater_, from circa 1590, the artist’s brush strokes depict a man and his bowl of black-eyed peas, visually articulating their mutual low standing. Even though the beans had been a vital part of the Mediterranean diet and culture for centuries, they are here presented as both marginal and familiar.
 
@@ -63,21 +63,21 @@ In contrast, many more artists took inspiration from the [green pea](Q25237)—b
 # Peas and Beans in Early Modern Texts and Images
 
 ##
-{: .columns}
+{: .wrap}
 
 Visual representations of black-eyed peas and other varieties of beans and peas shaped European understanding of the plant. Beginning in the sixteenth century, the dramatic rise in the production and circulation of printed texts with images, such as [herbals](Q6165948) and natural histories, reinforced the codification of plants based on their geographic origins. Unprecedented global travel also formed European ideas about the ways in which close observation of the natural world could reveal the domestic or foreign origins of a person, plant, or animal. One result of this was a shift in European attitudes toward the black-eyed pea.
 
 `image region=275,48,1380,1253 src=Clusius_Rariorum_Plantarum_Historia_Biblioteca_del_Real_Jardín_Botánico_CC_BY_NC_SA.jpg aspect=0.61`
 
 ##
-{: .columns}
+{: .wrap}
 
 Despite the millennia-old European presence of the black-eyed pea, it was now understood in Europe as an itinerant body within a Eurocentric [taxonomy](Q8269924) of plants. European explorers visiting Africa, Asia, and the Americas reinforced this idea. Their observations, often reported in books, were soon taken throughout Europe as factual. For example, Dutch trader and explorer [Pieter de Marees’](Q3117063) 1602 book about West Africa includes an illustration of the [black-eyed pea](img1/zoomto/418,756,583,437) in an idealized landscape alongside people and other plants.[^ref7]
 
 `image #img1 src=indiaeorientalis00mare_1_n170.jpg aspect=0.65`
 
 ##
-{: .columns}
+{: .wrap}
 
 The European perspective is not the only early modern view we have on the black-eyed pea. Written records of the bean appear in the sixteenth century in China, where it is noted in the [Ming Dynasty](Q9903) [_Compendium of Materia Medica_](https://www.nlm.nih.gov/exhibition/chinesemedicine/books.html) as being a cure for flatulence and for kidney problems.[^ref8] And a beautiful illustration of the "cowpea" featured in the 30-volume Japanese agricultural encyclopaedia [_Seikei Zuetsu_,](https://digitalcollections.universiteitleiden.nl/japanese_agriculture_19th_century) published in 1804, shows how far the black-eyed pea had spread and how its usefulness had been welcomed into many agricultural traditions.
 
@@ -87,7 +87,7 @@ The European perspective is not the only early modern view we have on the black-
 # Food, Culture, and Colonialism
 
 ## 
-{: .columns}
+{: .wrap}
 
 The black-eyed pea, [millet](Q259438), [yams](Q8047551), and many other staple foods of the American tropics have African origins. European traders on the coast of West Africa filled hundreds of thousands of vessels with 10 to 12 million captives over the centuries of the [transatlantic slave trade](Q10701282).[^ref10] These vessels carried humans-as-commodities as well as the foodstuffs needed for an average voyage of 60 to 80 days.[^ref11] Dry legumes, like black-eyed peas, [hyacinth beans,](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501411-1) and [bambara groundnuts](Q338219), were staple foods cooked into gruel during the [Middle Passage](Q2500942). Leftover stocks then accompanied captives as they were dispersed throughout the Americas and the Caribbean.[^ref12] In Jamaica around 1687, the English physician, naturalist, and planter [Sir Hans Sloane](Q310326) (1660–1753) recorded the presence of the black-eyed pea and extracted a plant to create this herbarium specimen.[^ref13]
 
@@ -100,28 +100,28 @@ The black-eyed pea, [millet](Q259438), [yams](Q8047551), and many other staple f
 `image src=al.ap.specimen.bm000589657.jpg aspect=0.65`
 
 ## 
-{: .columns}
+{: .wrap}
 
 In the southern United States, enslaved peoples cultivated black-eyed peas as a crop largely for livestock.[^ref14] However, it was also a food served to them as well as a fixture in their kitchen gardens. Numerous firsthand accounts of enslaved peoples refer to black-eyed peas. In his 1837 [memoir,](https://archive.org/details/slaveryinunit00ballcha/page/n3/mode/2up?view=theater) [Charles Ball](Q5075393) (1780–unknown) recalls, "We had plenty of bread, and a supply of black-eyed peas, gathered from our garden, some of which [were] boiled in our kettle."[^ref15] Francis Fedric wrote of the bean, "The dinner [of enslaved persons] consists generally of black-eyed peas soup, as it is called. About a quart of peas is boiled in a large pan, and a small piece of meat, just to flavour the soup, is put into the pan. The next day it would be bean soup...served out to the men and women in bowls; but the children feed like pigs out of troughs."[^ref16] Black-eyed peas also held special cultural significance to enslaved Africans, serving for many as a marker of auspicious occasions, luck, and fertility.
 
 `image src=slaveryinunit00ballcha_0172.jpg aspect=0.59`
 
 ## 
-{: .columns}
+{: .wrap}
 
 [Thomas Jefferson](Q11812) (1743−1826) and [George Washington](Q23) (1732−1799) both had black-eyed peas planted on their expansive plantations, [Monticello](https://www.monticello.org/slavery/) and [Mount Vernon,](https://www.mountvernon.org/george-washington/slavery/slavery-at-mount-vernon/) respectively. Washington corresponded with friends and acquaintances about the plant in a 1787 [letter,](https://founders.archives.gov/documents/Washington/04-05-02-0442) in which he writes, "small, and round black eyed Pease called the Gentlemans Pea."[^ref17] Jefferson considered the cultivation of black-eyed peas a pursuit worthy of a gentleman, harkening back to European traditions that placed greater social and cultural status on green peas. He held yearly pea growing contests, with the first man to produce a fresh pea required to host a dinner for other gentlemen in the area.
 
 `image src=master-mss-mgw-mgw2-014-2340228.jpg aspect=0.59`
 
 ## 
-{: .columns}
+{: .wrap}
 
 During the [Civil War](Q8676), because the North associated black-eyed peas with the practice of slavery, they were considered undesirable. However, they remained an important food in the South, so much so that some tired of their ubiquity. In Adelaide Stuart Dimitry’s memoirs of the war years (she became the historian of the Stonewall Jackson Chapter of the New Orleans United Daughters of the Confederacy), she notes that while food was often hard to come by, the black-eyed pea remained a reliable—to the point of tiresome—meal. She recalls: "Once at home came the dinner-where it came from was the daily surprise of life. Sometimes it consisted only of a large platter of newly-dug goobers or [peanuts,](https://lab.plant-humanities.org/peanut/) boiled in salt water, but always sauced with a wondrous appetite—in that dour time never lacking in Richmond... But oh, the eternal, dried, black-eyed pea whether in porridge or soup, baked or boiled, ever the same villainous comestible that made one weary of going to the table!"[^ref18] 
 
 `image src=wartimesketcheshdimi_0075.jpg aspect=0.59`
 
 ## 
-{: .columns}
+{: .wrap}
 
 In the late nineteenth century, American [subsistence farmers](Q2787508) were encouraged to grow the black-eyed pea even if their local climate meant they did not get an abundant crop. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock made that this easy-to-grow crop a valuable addition to the farming landscape. [George Washington Carver](Q296898) (c.1864–1943), the noted [American scientist and innovative proponent](https://libguides.nybg.org/c.php?g=1003078&p=7264400) of [crop rotation](Q191258), urged farmers in the American South to plant black-eyed peas to help replenish soil depleted by cotton farming. He also believed that this easily grown crop could help lift formerly enslaved peoples out of systemically reinforced poverty. He wrote of the plant: "The cow pea is rightfully looked upon by many as the poor man’s bank or mortgage-lifter... It is a matter of much regret that every colored farmer in Macon County does not plant at least three acres in peas."[^ref19]
 
@@ -172,7 +172,7 @@ Brazil’s national dish, _[feijoada completa](Q878189)_, has a similar origin s
 # Climate Change, Breeding, and Resilience
 
 ##
-{: .columns}
+{: .wrap}
 
 Today, the [Food and Agriculture Organization of the United Nations](Q82151) estimates that around 7 million tons of black-eyed peas are produced annually worldwide.[^ref31] The centers of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80 percent of the world’s black-eyed pea crop.[^ref32] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref33] Black-eyed peas are the third most important [pulse](Q379813) worldwide—a crucial component of sustainable agriculture and source of food for hundreds of millions of people.
 
